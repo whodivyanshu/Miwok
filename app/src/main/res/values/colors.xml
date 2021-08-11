@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#4A312A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="purple_200">#FFF</color>
+    <color name="purple_700">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="white">#FFF7DA</color>
+
+    <!-- Background color for the numbers category -->
+    <color name="teal_200">#FD8E09</color>
+
+    <!-- Background color for the family members category -->
+    <color name="teal_700">#379237</color>
+
+    <!-- Background color for the colors category -->
+    <color name="black">#8800A0</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_phrases">#16AFCA</color>
+</resources>
